@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack - Water Tracker & Daily Health Checkup",
+  "description": "Comprehensive fitness tracker with real-time hydration logging, daily wellness checkups, letter-grade completion scoring, clinical telemetry, and cross-platform sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
